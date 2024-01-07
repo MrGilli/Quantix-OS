@@ -1,0 +1,6 @@
+TODO:
+    - Seperate file for File System code.
+    
+    - Token user input so multiple words can be in a command.
+        * Instead of mkfile to create a file the usr can type mkfile hello to create a unique file called hello.txt
+    
