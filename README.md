@@ -10,3 +10,6 @@ Supported commands/features:
   * exec(execute a program (not fully working))
   * login system for ROOT.
   * IO
+  * cpuid(System Info)
+  * whoami(Info about current user)
+  * shutdown(Shuts the operating system down.)
