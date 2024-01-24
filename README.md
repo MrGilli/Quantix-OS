@@ -3,6 +3,7 @@ Quantix is a very basic UNIX-like Operating System for intel/x86_64 systems.
 Supported commands/features:
   * A basic file system
   * Terminal/CLI based system
+  * help(lists all system commands.)
   * mkfile(makes a file with specified text)
   * ls(lists files in directory)
   * clear(clears text on screen)
