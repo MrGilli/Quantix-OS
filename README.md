@@ -1,4 +1,6 @@
 # The Quantix Retro Operating System!
+
+##For Arch Based systems put the following line of code at the start of kernel.c & console.c!! ( #pragma GCC optimize ("no-stack-protector") )
 Quantix is a very basic UNIX-like Operating System for intel/x86_64 systems.
 Supported commands/features:
   * A basic file system
