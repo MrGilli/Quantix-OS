@@ -2,8 +2,10 @@
 
 ##For Arch Based systems put the following line of code at the start of kernel.c & console.c!! ( #pragma GCC optimize ("no-stack-protector") )
 
+# Objective
+QuantixOS is a UNIX-Like operating system written in x86 Intel Assembly and C. QuantixOS aims to be the standard operating system for quantum computers, and an efficient way to interface with and manipulate qubits in a quantum computers system
 
-Quantix is a very basic UNIX-like Operating System for intel/x86_64 systems.
+Quantix is a very basic UNIX-like Operating System for intel/x86_64 systems. 
 Supported commands/features:
   * A basic file system
   * Terminal/CLI based system
