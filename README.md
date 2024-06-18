@@ -1,4 +1,4 @@
-# The Quantix Retro Operating System!
+# The Quantix Operating System!
 
 ##For Arch Based systems put the following line of code at the start of kernel.c & console.c!! ( #pragma GCC optimize ("no-stack-protector") )
 
