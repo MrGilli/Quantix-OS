@@ -1,5 +1,7 @@
 # The Quantix Operating System!
 
+Like cool low-level projects? Check out Quplexity on github! Its a fast, lightweight, modular Quantum Computing Simulation library written in x86 and ARM64 Assembly.
+
 ##For Arch Based systems put the following line of code at the start of kernel.c & console.c!! ( #pragma GCC optimize ("no-stack-protector") )
 
 # Objective
