@@ -5,7 +5,7 @@ Like cool low-level projects? Check out Quplexity on github! Its a fast, lightwe
 ##For Arch Based systems put the following line of code at the start of kernel.c & console.c!! ( #pragma GCC optimize ("no-stack-protector") )
 
 # Objective
-QuantixOS is a UNIX-Like operating system written in x86 Intel Assembly and C. QuantixOS aims to be the standard operating system for quantum computers, and an efficient way to interface with and manipulate qubits in a quantum computers system
+QuantixOS is a UNIX-Like operating system written in x86 Intel Assembly and C. QuantixOS aims to be a cool "toy" OS that can be used to learn low-level development.
 
 # Commands
 Supported commands/features:
